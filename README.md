@@ -15,7 +15,10 @@
 💻 **טכנולוגיות שאני משתמשת בהן:**
 - Java
 - javaScript
+
 💬 אפשר ליצור איתי קשר:
-- **Discord**: _just_maya
+**Discord**: _just_maya
 
 תודה שהסתכלתם בפרופיל שלי! 💜
+
+(התוכן נוצר באמצעות AI)
