@@ -1,16 +1,21 @@
-## Hi there 👋
+# היי! אני מאיה 🌸
 
-<!--
-**just-maya/just-maya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ברוכים הבאים לפרופיל שלי בגיטהאב!
 
-Here are some ideas to get you started:
+אני מאיה (Maya), מישראל (🇮🇱), ואני יוצרת פלאגינים למיינקראפט ב-Java 🎮  
+למדתי לתכנת לבד, והעולם הזה ממש מרתק!  
+המטרה שלי היא ליצור פרויקטים שיכולים לעזור לשרתים ולשחקנים, וגם ללמוד ולהתפתח תוך כדי.  
+אני אוהבת לחקור, ללמוד דברים חדשים, ולעבוד בשיתוף פעולה עם אחרים.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **מה אני עושה כאן בגיטהאב?**
+- מפתחת פלאגינים למיינקראפט
+- יוצרת פרויקטים פתוחים שכולם יכולים להיעזר בהם
+- חוקרת טכנולוגיות חדשות, משתפת קוד ומשתפרת כל יום
+
+💻 **טכנולוגיות שאני משתמשת בהן:**
+- Java
+- javaScript
+💬 אפשר ליצור איתי קשר:
+- **Discord**: _just_maya
+
+תודה שהסתכלתם בפרופיל שלי! 💜
